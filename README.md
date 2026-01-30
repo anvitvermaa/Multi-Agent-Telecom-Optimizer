@@ -8,7 +8,7 @@ Key Features:
 	•	Evaluation & observability: Integrated with MLflow for autologging prompts, decisions, retrieval quality metrics, and answer correctness; supports Databricks model registry.
 	•	Data integration: Customer features from MySQL (plan, usage, churn risk) influence messaging; outputs stored both in DB and structured JSON.
 
-Tech Stack: LangGraph, LangChain, LLaMA3 (via Groq API), ChromaDB, sentence-transformers, MLflow, Databricks, Python ecosystem (pandas, SQLAlchemy, etc.).
+Tech Stack: LangGraph, LangChain, LLaMA3 (via, ChromaDB, sentence-transformers, MLflow, Databricks, Python ecosystem (pandas, SQLAlchemy, etc.).
 
 Setup & Usage:
 	1.	Install dependencies via provided automation script.
